@@ -1,0 +1,9 @@
+[
+  {
+    "Informaci\u00f3n sobre el procesador": "unknown\n", 
+    "Listado de procesos corriendo": "  PID TTY          TIME CMD\n 1245 pts/0    00:00:00 bash\n 1787 pts/0    00:00:00 app.py\n 1793 pts/0    00:00:00 python\n 1795 pts/0    00:00:00 ps\n", 
+    "Nombre del SO": "Linux\n", 
+    "Usuarios con sesion abierta": "root     tty7         2020-03-14 06:22 (:0)\n", 
+    "Version_SO": "GNU/Linux\n"
+  }
+]
